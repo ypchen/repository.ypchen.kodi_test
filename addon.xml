@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ypchen.kodi_test" name="ypchen Kodi Add-ons (test)" version="1.0.0" provider-name="ypchen">
+    <extension point="xbmc.addon.repository" name="ypchen Kodi Add-ons (test)">
+        <info compressed="false">https://raw.githubusercontent.com/ypchen/kodi.ypchen.addons_test/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/ypchen/kodi.ypchen.addons_test/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/ypchen/kodi.ypchen.addons_test/raw/master/addons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Download and install ypchen Kodi add-ons (test)</summary>
+        <description>Add-ons for Kodi (test)</description>
+        <platform>all</platform>
+    </extension>
+</addon>
